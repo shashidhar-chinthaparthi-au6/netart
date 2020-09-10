@@ -70,6 +70,7 @@
 .App{
     display:flex;
     flex-wrap: wrap;
+Width:100%;
     background: linear-gradient(rgb(241, 241, 241),rgb(250, 249, 210));  
     
 }
